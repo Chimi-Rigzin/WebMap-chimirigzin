@@ -1,0 +1,2 @@
+# WebMap-chimirigzin
+casestudy
